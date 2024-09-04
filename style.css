@@ -1,0 +1,21 @@
+body{
+    background-color: aqua;
+color: rgb(0, 0, 0);
+font-family: "Jersey 10", sans-serif;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 700px;
+margin: 0%;
+}   
+button{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    font-family: "Jersey 10", sans-serif;
+}
+.passo{
+display: none;
+}
+.passo.ativo{
+    display:block;
+}
